@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello gittt ll!");
         System.out.println("hello gittt ll master test!");
         System.out.println("hello gittt ll push test!");
+        System.out.println("hello gittt ll pull test!");
     }
 }
